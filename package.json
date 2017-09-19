@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "jquery": "^3.2.1",
+    "wdio-selenium-standalone-service": "~0.1",
+    "webdriverio": "^4.8.0"
+  }
+}
